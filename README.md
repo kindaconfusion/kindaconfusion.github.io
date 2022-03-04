@@ -1,3 +1,0 @@
-# kindaconfusion.github.io
-
-website
