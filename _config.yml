@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: "kindaconfused"
 description: "that's me!"
+logo: /assets/img/logo.jpg
