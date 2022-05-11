@@ -1,7 +1,7 @@
 title: kindaconfused
 description: >- # this means to ignore newlines until "baseurl:"
  hey everyone! i'm Lexi "kindaconfused". i'm 19 and a freshman in college studying computer science.
- currently forcing myself to learn UI dev. c#, java, flutter.
+ currently forcing myself to learn UI dev. C#, C++, flutter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo.jpg
