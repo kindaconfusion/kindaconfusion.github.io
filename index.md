@@ -3,7 +3,7 @@ layout: default
 ---
 
 # what i'm working on
-## jellody
-a cross-platform, lightweight TUI music player for jellyfin
+## honeydew
+a mobile client for Melon (an upcoming media server by [EpsiRho](epsirho.com))
 
-coming soon
+coming soon™
