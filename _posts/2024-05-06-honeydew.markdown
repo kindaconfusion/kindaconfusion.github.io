@@ -2,10 +2,10 @@
 layout: post
 title:  "honeydew"
 date:   2024-05-06 20:21:42 -0600
+author: kindaconfused
 categories: honeydew
 ---
 
-# honeydew
 hey, thanks for clicking through!
 
 i'm making honeydew, a flutter-based music player compatible with the melon media server by epsirho.
