@@ -1,0 +1,22 @@
+baseURL = 'https://kindaconfused.com/'
+languageCode = 'en-us'
+title = 'kindaconfused'
+theme = 'risotto'
+
+[params.theme]
+palette = "tokyo-night-dark"
+
+[params.about]
+title = "kindaconfused"
+description = "software dev. college student. sometimes a musician."
+logo = "😸"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/kindaconfusion"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:me@kindaconfused.com"
