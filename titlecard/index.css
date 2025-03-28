@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Shadow of Xizor';
+    src: url('assets/ShadowofXizor.woff2');
+}
+
+.text {
+    font-family: 'Shadow of Xizor', sans-serif;
+    font-size: 200pt;
+    transform-style: preserve-3d;
+    transform: 
+        perspective(1000px)
+        rotateX(10deg);
+    transform-origin: top;
+}
+
+#background {
+    position: relative;
+    left: 50%;
+}
+
+.byline {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    color: yellow;
+}
+
+#byline1 {
+    position: absolute;
+    top: 40vh;
+    font-size: 12pt;
+}
+
+#byline2 {
+    position: absolute;
+    top: 44vh;
+    font-size: 15pt;
+}
+
+#canvas {
+    position: absolute;
+    left: 50%;
+    top: 17vh;
+    right: 0;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    transform-style: preserve-3d;
+    transform: 
+        translate(-50%, -50%)
+        perspective(1000px)
+        rotateX(23deg);
+    transform-origin: top;
+}
+
+.editor {
+    margin: 2%;
+    position: relative;
+    max-width: fit-content;
+  margin-left: auto;
+   margin-right: auto;
+  text-align: center;
+}

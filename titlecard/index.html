@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Title Card Generator</title>
+    <script src="text.js"></script>
+  </head>
+  <body>
+    <div class="editor">
+      <div class="card">
+        <img #id="background" src="assets/background.jpg" />
+        <canvas id="canvas" width="1000" height="400"></canvas>
+        <p class="byline" id="byline1">BASED ON THE COMIC BOOK BY</p>
+        <p class="byline" id="byline2">
+          Robert Kirkman, Cory Walker, & Ryan Ottley
+        </p>
+      </div>
+      <p>Title    </p>
+      <input id="title" value="are you sure" /><br>
+      <p>Line 1    </p>
+      <input id="line1edit" value="Pretty sure." /><br>
+      <p>Line 2    </p>
+      <input
+        id="line2edit"
+        value="Threw a trash bag. Into space. At work."
+      />
+    </div>
+  </body>
+</html>
